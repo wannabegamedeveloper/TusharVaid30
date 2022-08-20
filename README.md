@@ -173,6 +173,22 @@
       height="40"
     />
     </a>
+    
+ <br>
+    
+ <h2 align="center">Tushar's Overview</h2>
+    
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharVaid30&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/TusharVaid30)|[![Tushar's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=TusharVaid30&theme=midnight-purple&hide_border=true)](https://github.com/TusharVaid30)
+|[![Statistics](https://github-readme-stats.vercel.app/api?username=TusharVaid30&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/TusharVaid30)|
+<br>
+<h1 >Total Profile Visits:</h1> 
+
+![Visitor Count](https://profile-counter.glitch.me/TusharVaid30/count.svg)
+
+
   
 
   
