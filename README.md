@@ -100,6 +100,15 @@
     />
   </a>
   
+  
+   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=7029" target="_blank">
+   <img 
+  src="assets\tools\c-sharp.png"
+      alt="C# Programming"
+      width="40"
+      height="40">
+  </a>
+  
    <h5 align="left">Tools</h5>
    
   <a href="https://github.com" target="_blank">
@@ -120,11 +129,11 @@
     />
   </a>
   
-  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwispIyOudz4AhX4nNgFHYWTCEUQFnoECBkQAQ&url=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F&usg=AOvVaw1dUbYp3QZeAgvbt0Z6D1Zw" target="_blank">
+  <a href="https://www.jetbrains.com/rider/download/#section=windows" target="_blank">
    <img
-      src="assets/tools/intelli.jpg"
-      alt="Intellij-IDE"
-      width="40"
+      src="assets/tools/jetbrains_ryder.png"
+      alt="Intellij-Ryder"
+      width="50"
       height="40"
     />
   </a>
@@ -137,4 +146,36 @@
       height="40"
     />
     </a>
+    
+   <a href="https://www.blender.org/download/" target="_blank">
+   <img
+      src="assets/tools/blender.png"
+      alt="Blender"
+      width="40"
+      height="40"
+    />
+  
+  
+  <a href="https://unity3d.com/get-unity/download" target="_blank">
+   <img
+      src="assets/tools/unity_img.png"
+      alt="Unity"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://www.opengl.org" target="_blank">
+   <img
+      src="assets/tools/open_gl.png"
+      alt="Open GL"
+      width="40"
+      height="40"
+    />
+    </a>
+  
+
+  
+
+  
   
