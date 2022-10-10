@@ -21,7 +21,7 @@
    <br>
    <br>
   <a href="https://www.instagram.com/gamedevcom.srm/">
- <img width="60px" height="60px" src="https://user-images.githubusercontent.com/31384470/194824785-5a181503-2990-40e1-8446-faba5a110f47.png" align="center"/></a> <i>Member of the Founding Board at Game Developers Community SRM</i>
+ <img width="60px" height="60px" src="https://user-images.githubusercontent.com/31384470/194824785-5a181503-2990-40e1-8446-faba5a110f47.png" align="center"/></a> <i>Founding Board Member at Game Developers Community SRM</i>
 
  
   
